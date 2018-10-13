@@ -1,10 +1,1 @@
-1  haha
-2  -- hfc2 gaocuilan zhubajie
-3.test2
-3.≤‚ ‘1
-4.xixi
-4.haha
-5.nani?
-5.sigaoyi!
-hfc2
-hfc1
+hfc2/a.txt ÁºñÁ†Åutf-8
